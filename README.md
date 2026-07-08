@@ -54,7 +54,11 @@ pip install -r requirements.txt
 
 ### Шаг 4. Настройка переменных окружения
 
-Заполните данные в .env
+Создайте и Заполните данные в .env
+
+    TELEGRAM_BOT_TOKEN=ваш_токен_от_botfather
+    EXTERNAL_RECOMMENDATIONS_URL=https://jsonplaceholder.typicode.com/posts
+    AI_API_URL=http://127.0.0.1:8000
 
 ## Запуск
 
